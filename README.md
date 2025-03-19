@@ -32,3 +32,11 @@ Python: Pandas, NumPy, Matplotlib, Seaborn
 Machine Learning: Scikit-learn, TensorFlow, Keras
 Time-Series Forecasting: LSTM, ARIMA (if applicable)
 Visualization: Tableau Dashboard for stock trends
+
+
+
+
+# My Tableau Dashboard  
+📊 Click below to view the dashboard:  
+[📂 View Dashboard (PDF)](Dashboard/STOCK PRICE DASHBOARD.pdf)
+
